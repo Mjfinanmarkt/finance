@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485313232624",
+    "project_id": "mirna-justo-consultor-empresar",
+    "storage_bucket": "mirna-justo-consultor-empresar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485313232624:android:06db609c2e1cbfe95c8c35",
+        "android_client_info": {
+          "package_name": "MJ.variedades.fananmkt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnjqD_bDu76LVVLQVZT7yee69ktURsBXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
